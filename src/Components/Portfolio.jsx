@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/backgroundimg.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "guy pointing to the left";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The Language Lounge: Through the World of Coding Languages",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Let's take a look at some popular programming languages and see how they compare to the languages we use every day.",
+    url: "https://www.urbanuprise.co.za/post/the-language-lounge-through-the-world-of-coding-languages",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Coding 101: The Power To Change The World & Become A Better Human Being",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Why Should You Care ? Coding empowers you to be a digital creator. You can build websites that showcase your ideas, create apps that solve real-world problems, or even craft games that transport people to new dimensions.",
+    url: "https://www.urbanuprise.co.za/post/coding-101-the-power-to-change-the-world-become-a-better-human-being",
   },
   {
-    title: "My Resume Site",
+    title: "LearnToCode Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I find peace in simplifying things for others and sharing my knowledge. On my site, I've compiled learning resources that's helping me on this journey.",
+    url: "https://www.urbanuprise.co.za/learntocode",
   },
 ];
 
